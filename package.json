@@ -31,7 +31,7 @@
     "jquery": "^3.3.1",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.9.0",
     "react-helmet": "^5.2.0",
     "react-scrollchor": "^5.0.1",
     "react-scrollspy": "^3.3.5",
