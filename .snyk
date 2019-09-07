@@ -61,6 +61,8 @@ patch:
         patched: '2019-09-07T18:06:30.401Z'
     - gatsby-plugin-sharp > imagemin-webp > cwebp-bin > bin-build > download > gulp-decompress > decompress > vinyl-fs > glob-stream > extend:
         patched: '2019-09-07T18:06:30.401Z'
+    - gatsby > request > extend:
+        patched: '2019-09-07T18:08:15.549Z'
   'npm:hoek:20180212':
     - webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > hoek:
         patched: '2019-09-07T18:06:30.401Z'
@@ -168,6 +170,8 @@ patch:
         patched: '2019-09-07T18:06:30.401Z'
     - gatsby > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > stringstream:
         patched: '2019-09-07T18:06:30.401Z'
+    - gatsby > request > stringstream:
+        patched: '2019-09-07T18:08:15.549Z'
   'npm:tough-cookie:20170905':
     - gatsby > chokidar > fsevents > node-pre-gyp > request > tough-cookie:
         patched: '2019-09-07T18:06:30.401Z'
