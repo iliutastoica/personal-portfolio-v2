@@ -30,7 +30,7 @@
     "gatsby-plugin-sitemap": "^1.2.20",
     "gatsby-source-filesystem": "^2.0.22",
     "gatsby-transformer-sharp": "^1.6.23",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.4.2",
